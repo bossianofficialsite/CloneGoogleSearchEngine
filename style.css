@@ -345,7 +345,7 @@ nav button {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #d9d9d9;
+    background: #fff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -383,7 +383,7 @@ nav button {
     .error-cont {
         visibility: visible;
     }
-    footer {
+    .container {
         display: none;
     }
 }
